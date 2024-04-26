@@ -1,1 +1,1 @@
-I am a data engineer. This repository has my solutions to Leetcode puzzles. It contains database and regular software puzzles. The regular softwre problems are solved by Python and database ones are solved primarily by MySQL query and a few by Pandas. 
+I am a data engineer. This repository has my solutions to Leetcode puzzles. It contains database and regular software fields. The regular softwre problems are solved by Python and database ones are solved primarily by MySQL query and a few by Pandas. 
